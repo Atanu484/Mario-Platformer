@@ -1,0 +1,5 @@
+# Project exclude paths
+/.gradle/
+/java-platformer/.gradle/
+/java-platformer/build/
+/java-platformer/build/classes/java/main/
